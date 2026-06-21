@@ -1,6 +1,6 @@
 title = MaranCode
 package.name = marancode
-package.domain = org.example
+package.domain = org.maran
 
 requirements = python3,kivy
 
